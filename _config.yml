@@ -1,13 +1,14 @@
 # Site settings
-title: By SuperMaxBig
-SEOTitle:踏雪寻梅的技术博客 | BY Blog
-header-img: img/post-bg-rwd.jpg
-email: 874335767@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 踏雪寻梅的博客, SuperMaxBig"
-url: "http://SuperMaxBig.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+title: You Blog                     #你博客的标题
+SEOTitle:SuperMax | You Blog        #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
+email: 874335767@qq.com    
+description: "You And Me"              #网站介绍
+keyword: "BY, BY Blog, 踏雪寻梅博客, Spark, Hive, Flum, Hadoop" #关键词
+url: "http://SuperMaxBig.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
+
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -53,7 +54,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: supermaxbig
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -91,16 +92,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "SparkStreaming",
+        href: "http://spark.apache.org/streaming/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "BI",
+        href: "https://ask.hellobi.com/blog/Zeehom"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "BITTIGER",
+        href: "https://www.bittiger.io/home"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Hive",
+        href: "https://hive.apache.org/"
     }
 ]
